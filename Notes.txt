@@ -1,0 +1,31 @@
+Extension: 启迪AI辅助评价 v1.0.0
+
+1. Test Account
+- Requires Qidi Education platform account (www.qidi-edu.com)
+- Extension only activates on feedback input fields at www.qidi-edu.com
+- We cannot provide test credentials for this third-party platform
+
+2. How to Test
+Setup:
+- Install extension → Click icon → Options
+- Configure AI: OpenAI API key OR Zhipu AI API key
+- Save settings
+
+Usage:
+- Visit www.qidi-edu.com → Focus on any feedback textarea
+- AI panel auto-appears → Select tags → Click "生成评价"
+- Generated text inserts into the field
+
+3. Dependencies
+- OpenAI API (api.openai.com) OR Zhipu AI API (open.bigmodel.cn)
+- User must provide their own API key
+
+4. Permissions
+- storage: Local settings only
+- activeTab: Inject UI panel
+- host_permissions: www.qidi-edu.com only
+
+5. Privacy
+- No data collection, no backend, no analytics
+- API keys stored locally only
+- Contact: https://github.com/hesirui12
