@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "AI辅助评价",
+  "version": "1.0.0",
+  "description": "AI辅助评价工具，适用于www.qidi-edu.com",
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://www.qidi-edu.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.qidi-edu.com/*"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
