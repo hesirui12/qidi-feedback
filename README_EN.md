@@ -105,7 +105,7 @@ In the extension options page, you can:
 
 If you have any questions or suggestions, please contact us through the following methods:
 - Submit an Issue
-- Send an email to: [Your Email]
+- Send an email to: jcsyhesirui@126.com
 
 ## License
 
