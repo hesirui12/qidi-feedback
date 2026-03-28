@@ -1,5 +1,6 @@
 {
   "manifest_version": 3,
+  "default_locale": "zh_CN",
   "name": "AI辅助评价",
   "version": "1.0.0",
   "description": "AI辅助评价工具，适用于www.qidi-edu.com",
