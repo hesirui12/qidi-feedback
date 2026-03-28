@@ -1,8 +1,30 @@
 # AI辅助评价 - Chrome浏览器扩展
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](./manifest.json)
+[![Manifest](https://img.shields.io/badge/manifest-v3-green.svg)](https://developer.chrome.com/docs/extensions/mv3/)
+[![JavaScript](https://img.shields.io/badge/javascript-ES6+-yellow.svg)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+[![Chrome](https://img.shields.io/badge/chrome-88+-orange.svg)](https://www.google.com/chrome/)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](./LICENSE)
+
+[English Document](README_EN.md) | 中文文档
+
 ## 简介
 
 AI辅助评价是一款专为启迪教育平台（www.qidi-edu.com）设计的Chrome浏览器扩展。该扩展利用人工智能技术，帮助教师快速生成学生评价，提升教学工作效率。
+
+## 版本信息
+
+- **当前版本**：v1.0.0
+- **Manifest版本**：v3
+- **最后更新**：2026年3月28日
+
+## 技术栈
+
+- **核心语言**：JavaScript (ES6+)
+- **浏览器扩展**：Chrome Extension Manifest V3
+- **前端技术**：HTML5, CSS3
+- **AI接口**：OpenAI API / 智谱清言 API
+- **存储**：Chrome Storage Sync API
 
 ## 功能特点
 
