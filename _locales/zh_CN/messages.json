@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "启迪AI辅助评价",
+    "description": "扩展名称"
+  },
+  "extensionDescription": {
+    "message": "启迪AI辅助评价工具，适用于www.qidi-edu.com",
+    "description": "扩展描述"
+  }
+}

@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
   "default_locale": "zh_CN",
-  "name": "AI辅助评价",
+  "name": "启迪AI辅助评价",
   "version": "1.0.0",
-  "description": "AI辅助评价工具，适用于www.qidi-edu.com",
+  "description": "启迪AI辅助评价工具，适用于www.qidi-edu.com",
   "permissions": [
     "storage",
     "activeTab"
@@ -24,6 +24,19 @@
   },
   "options_page": "options.html",
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon.svg",
+      "32": "icons/icon.svg",
+      "48": "icons/icon.svg",
+      "128": "icons/icon.svg"
+    },
+    "default_title": "启迪AI辅助评价"
+  },
+  "icons": {
+    "16": "icons/icon.svg",
+    "32": "icons/icon.svg",
+    "48": "icons/icon.svg",
+    "128": "icons/icon.svg"
   }
 }
