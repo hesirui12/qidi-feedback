@@ -1,5 +1,5 @@
 # AI辅助评价 - Chrome浏览器扩展
-
+[![github](https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg)](https://github.com/hesirui12)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](./manifest.json)
 [![Manifest](https://img.shields.io/badge/manifest-v3-green.svg)](https://developer.chrome.com/docs/extensions/mv3/)
 [![JavaScript](https://img.shields.io/badge/javascript-ES6+-yellow.svg)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
